@@ -1,0 +1,14 @@
+AnimationPlayer
+ColorRect
+AudioStreamPlayer
+AudioStreamPlayer2D
+Button
+Label
+HSlider
+CheckButton
+Camera2D
+TextureRect
+Panel
+Control
+Node2D
+CenterContainer

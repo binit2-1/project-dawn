@@ -1,0 +1,32 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1744447194
+export_presets.cfg::TextFile/TextFile::-1::1744427502::0::1::::<><><>0<>0<><>::
+Final-MainMenu.ogv::VideoStreamTheora/VideoStreamTheora::7850511816772376889::1744424726::0::1::::<><><>0<>0<><>::
+::res://Assets_MainMenu/::1744447187
+ChatGPT Image Apr 5, 2025, 02_31_39 PM.png::CompressedTexture2D/CompressedTexture2D::6916671605940238851::1743843754::1744447187::1::::<><><>0<>0<>61db84fe5b4690bc5ab421d4dd5f1cc8<>res://.godot/imported/ChatGPT Image Apr 5, 2025, 02_31_39 PM.png-1a84fb0484f1532847febc7b27cf3c91.ctex::
+ChatGPT Image Apr 5, 2025, 10_53_56 PM.png::CompressedTexture2D/CompressedTexture2D::5150001374093402961::1743874018::1744447187::1::::<><><>0<>0<>8a3f6f8b0db9ef99ca87b221b0f38ae2<>res://.godot/imported/ChatGPT Image Apr 5, 2025, 10_53_56 PM.png-d8e47b28ff0c69230a5f15fcc9ea04ad.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::4724272895047842489::1743840688::1744447187::1::::<><><>0<>0<>28090dabccb5e818e31209d2db963015<>res://.godot/imported/icon.svg-e9e496b801ff4e60d4f76a6733266d24.ctex::
+kenneyUI-blue.tres::Theme/Theme::4055729113626724974::1744426554::0::1::::<><><>0<>0<><>::uid://ojkwwh3jyyjk::::res://Assets_MainMenu/kenvector_future.ttf
+kenneyUI-green.tres::Theme/Theme::8890030429374522759::1744426620::0::1::::<><><>0<>0<><>::uid://ojkwwh3jyyjk::::res://Assets_MainMenu/kenvector_future.ttf
+kenneyUI-red.tres::Theme/Theme::8332071510970952968::1744426620::0::1::::<><><>0<>0<><>::uid://ojkwwh3jyyjk::::res://Assets_MainMenu/kenvector_future.ttf
+kenneyUI-yellow.tres::Theme/Theme::969468065536785511::1744426554::0::1::::<><><>0<>0<><>::uid://ojkwwh3jyyjk::::res://Assets_MainMenu/kenvector_future.ttf
+kenvector_future.ttf::FontFile/FontFile::1001870835725088044::1743856148::1744447186::1::::<><><>0<>0<>20fc84b40473604aa9ef86c868ce67a6<>res://.godot/imported/kenvector_future.ttf-d06ffd9ef43923b15c1782e290e9e50d.fontdata::
+Stacked pixel.ttf::FontFile/FontFile::7286802490344106253::1743880402::1744447186::1::::<><><>0<>0<>cb48b91375a17e2d5a41651330a6cb8d<>res://.godot/imported/Stacked pixel.ttf-b6735d56efbf37b344a8d82511891a70.fontdata::
+WhatsApp-Audio-2025-04-05-at-21.03.26.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::4497227466245863462::1743868120::1744447187::1::::<><><>0<>0<>932c0fa20fa6963cb3f74ac9b7d04e36<>res://.godot/imported/WhatsApp-Audio-2025-04-05-at-21.03.26.ogg-973f036998f40e3bbf7ce9dfa92f0b83.oggvorbisstr::
+::res://Scripts_Mainmenu/::1744447186
+Blur.gdshader::Shader/Shader::8585814361623619728::1743840688::0::1::::<><><>0<>0<><>::
+export_presets.cfg::TextFile/TextFile::-1::1743881634::0::1::::<><><>0<>0<><>::
+Game.tscn::PackedScene::6968679172130112430::1744447194::0::1::::<><><>0<>0<><>::uid://c8pqjb7krg88i::::res://Scripts_Mainmenu/Player.gd<>uid://chivg028ociel::::res://Scripts_Mainmenu/Pause_menu.tscn
+global_audio.tscn::PackedScene::8139333676531869441::1744447194::0::1::::<><><>0<>0<><>::uid://b5cqxdj3ktcxy::::res://Assets_MainMenu/WhatsApp-Audio-2025-04-05-at-21.03.26.ogg
+main_menu.gd::GDScript/GDScript::2494344736720820624::1743881390::0::1::::<>Control<><>0<>0<><>::
+main_menu.tscn::PackedScene::68043612289047229::1744447194::0::1::::<><><>0<>0<><>::uid://bbsjq1ma02hh5::::res://Scripts_Mainmenu/main_menu.gd<>uid://c5sqtn4f6biw6::::res://Assets_MainMenu/ChatGPT Image Apr 5, 2025, 02_31_39 PM.png<>uid://bx1vjbo8htcuw::::res://Assets_MainMenu/kenneyUI-blue.tres<>uid://ojkwwh3jyyjk::::res://Assets_MainMenu/kenvector_future.ttf<>uid://dywnrcxjdqsuh::::res://Assets_MainMenu/kenneyUI-green.tres<>uid://dqyeaar41o4iu::::res://Assets_MainMenu/kenneyUI-red.tres
+node_2d.gd::GDScript/GDScript::7136736215574285985::1743871522::0::1::::<>Control<><>0<>0<><>::
+Pause_menu.gd::GDScript/GDScript::3969983489885513528::1743840688::0::1::::<>ColorRect<><>0<>0<><>::
+Pause_menu.tscn::PackedScene::5281965422808070659::1744447194::0::1::::<><><>0<>0<><>::uid://dulbdxabx8hr1::::res://Scripts_Mainmenu/Blur.gdshader<>uid://bwtdbvs2yr1v5::::res://Scripts_Mainmenu/Pause_menu.gd
+Player.gd::GDScript/GDScript::7121026520216013422::1743840688::0::1::::<>CharacterBody3D<><>0<>0<><>::
+settings.gd::GDScript/GDScript::8113669514162937802::1744426242::0::1::::<>Node2D<><>0<>0<><>::
+settings.tscn::PackedScene::7997687664589875939::1744447194::0::1::::<><><>0<>0<><>::uid://dnuk7l53bwrf3::::res://Scripts_Mainmenu/settings.gd<>uid://cfmx1gmg7a6tp::::res://Assets_MainMenu/ChatGPT Image Apr 5, 2025, 10_53_56 PM.png<>uid://bx1vjbo8htcuw::::res://Assets_MainMenu/kenneyUI-blue.tres<>uid://db21tpxv2bpjh::::res://Assets_MainMenu/Stacked pixel.ttf
+studio_scene.gd::GDScript/GDScript::1526864452166092254::1743881156::0::1::::<>Control<><>0<>0<><>::
+studio_scene.tscn::PackedScene::5597046240583125638::1744447194::0::1::::<><><>0<>0<><>::uid://v0vh8a2j4iok::::res://Scripts_Mainmenu/studio_scene.gd<>uid://dj331u0g3y4f2::::res://Final-MainMenu.ogv
+system_menu.gd::GDScript/GDScript::351490216486513584::1743840688::0::1::::<>Control<><>0<>0<><>::
+System_menu.tscn::PackedScene::7754564300170207253::1744447195::0::1::::<><><>0<>0<><>::uid://fai80lx0iqd1::::res://Scripts_Mainmenu/system_menu.gd

@@ -1,0 +1,10 @@
+res://Scripts_Mainmenu/Game.tscn
+res://Scripts_Mainmenu/global_audio.tscn
+res://Scripts_Mainmenu/main_menu.tscn
+res://Scripts_Mainmenu/Pause_menu.tscn
+res://Scripts_Mainmenu/settings.tscn
+res://Scripts_Mainmenu/studio_scene.tscn
+res://Scripts_Mainmenu/System_menu.tscn
+res://Assets_MainMenu/kenneyUI-blue.tres
+res://Assets_MainMenu/kenneyUI-green.tres
+res://Assets_MainMenu/kenneyUI-red.tres
